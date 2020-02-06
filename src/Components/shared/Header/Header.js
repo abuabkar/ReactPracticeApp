@@ -29,8 +29,8 @@ class Header extends Component {
                                         <DropdownItem>
                                           Form
                 </DropdownItem>
-                                        <DropdownItem>
-                                          Render Props
+                                            <DropdownItem>
+                                                Render Props
                 </DropdownItem>
                                         <DropdownItem divider />
                                         <DropdownItem>
