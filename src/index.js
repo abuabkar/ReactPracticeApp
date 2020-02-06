@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ReactStrap from 'reactstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import 'node-sass';
 import './index.css';
